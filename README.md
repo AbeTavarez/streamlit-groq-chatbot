@@ -1,5 +1,14 @@
 # Small Chatbot with Streamlit and Groq
 
+![Chatbot Playground](./AI%20Stocks%20Application%20(10).png)
+
+## Description
+
+Build a <b>Chatbot App</b> with Python, Streamlit, and Groq.
+
+Follow the step-by-step tutorial here:
+<a href="https://youtu.be/JVgTTsTMW5c?si=2-ccEDChUaTdyUGg">YouTube Video</a>
+
 ## Cloning
 
 1. Clone this repo with:
