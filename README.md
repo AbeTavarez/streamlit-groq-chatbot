@@ -1,5 +1,5 @@
-<div style="background-color: #000; color: #fff; margin: 0; padding: 15px">
-<h1 style="color: #fff"> Small Chatbot with Streamlit and Groq </h1>
+<div>
+<h1 style="color: #fff">Chatbot with Streamlit and Groq </h1>
 
 ![Chatbot Playground](<./AI%20Stocks%20Application%20(10).png>)
 
