@@ -1,19 +1,19 @@
-<div>
-<h1 style="color: #fff">Chatbot with Streamlit and Groq </h1>
+
+# Chatbot with Streamlit and Groq
 
 ![Chatbot Playground](<./AI%20Stocks%20Application%20(10).png>)
 
-<h2 style="color: #fff"> Description </h2>
+## Description 
 
 Build a <b>Chatbot App</b> with Python, Streamlit, and Groq.
 
-<h3 style="color: #fff; margin: 20px 0"> Follow the step-by-step tutorial here:</h3>
+### Follow the step-by-step tutorial here:
 
 <a href="https://youtu.be/JVgTTsTMW5c?si=2-ccEDChUaTdyUGg">
-<img src="./yt_logo_rgb_dark.png" alt="youtube logo"/>
+    <img src="./yt_logo_rgb_dark.png" alt="youtube logo"/>
 </a>
 
-<h3 style="color: #fff"> Cloning </h3>
+### Cloning 
 
 1. Clone this repo with:
    `git clone https://github.com/AbeTavarez/streamlit-groq-chatbot.git`
@@ -35,10 +35,8 @@ Build a <b>Chatbot App</b> with Python, Streamlit, and Groq.
 
 Happy Hacking!
 
-## Docs
+### Docs
 
 [Streamlit API Reference](https://docs.streamlit.io/develop/api-reference)
 
 [Groq API Reference](https://console.groq.com/docs/overviewe)
-
-</div>
