@@ -1,33 +1,37 @@
-# Small Chatbot with Streamlit and Groq
+<div style="background-color: #000; color: #fff; margin: 0; padding: 15px">
+<h1 style="color: #fff"> Small Chatbot with Streamlit and Groq </h1>
 
-![Chatbot Playground](./AI%20Stocks%20Application%20(10).png)
+![Chatbot Playground](<./AI%20Stocks%20Application%20(10).png>)
 
-## Description
+<h2 style="color: #fff"> Description </h2>
 
 Build a <b>Chatbot App</b> with Python, Streamlit, and Groq.
 
-Follow the step-by-step tutorial here:
-<a href="https://youtu.be/JVgTTsTMW5c?si=2-ccEDChUaTdyUGg">YouTube Video</a>
+<h3 style="color: #fff; margin: 20px 0"> Follow the step-by-step tutorial here:</h3>
 
-## Cloning
+<a href="https://youtu.be/JVgTTsTMW5c?si=2-ccEDChUaTdyUGg">
+<img src="./yt_logo_rgb_dark.png" alt="youtube logo"/>
+</a>
+
+<h3 style="color: #fff"> Cloning </h3>
 
 1. Clone this repo with:
-`git clone https://github.com/AbeTavarez/streamlit-groq-chatbot.git`
+   `git clone https://github.com/AbeTavarez/streamlit-groq-chatbot.git`
 
 2. Enter the folder in to the project folder:
-`cd streamlit-groq-chatbot`
+   `cd streamlit-groq-chatbot`
 
 3. Install requirements:
-`pip install -r requirements.txt`
-or
-`pip3 install -r requirements.txt`
+   `pip install -r requirements.txt`
+   or
+   `pip3 install -r requirements.txt`
 
 4. Create a .streamlit folder and a secrets.toml file and add your Groq API key:
 
 `"GROQ_API_KEY"="add api key here"`
 
 5. Run the app:
-`streamlit run app.py`
+   `streamlit run app.py`
 
 Happy Hacking!
 
@@ -36,3 +40,5 @@ Happy Hacking!
 [Streamlit API Reference](https://docs.streamlit.io/develop/api-reference)
 
 [Groq API Reference](https://console.groq.com/docs/overviewe)
+
+</div>
