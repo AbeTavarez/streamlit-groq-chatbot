@@ -33,6 +33,9 @@ Build a <b>Chatbot App</b> with Python, Streamlit, and Groq.
 5. Run the app:
    `streamlit run app.py`
 
+<b>Don't forget to leave me a start and a like, Thanks for your support!
+</b> 
+
 Happy Hacking!
 
 ### Docs
