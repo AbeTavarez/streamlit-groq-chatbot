@@ -15,10 +15,12 @@ Build a <b>Chatbot App</b> with Python, Streamlit, and Groq.
 
 ### Cloning 
 
+###### From your terminal:
+
 1. Clone this repo with:
    `git clone https://github.com/AbeTavarez/streamlit-groq-chatbot.git`
 
-2. Enter the folder in to the project folder:
+2. Change into the project folder:
    `cd streamlit-groq-chatbot`
 
 3. Install requirements:
